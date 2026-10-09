@@ -23,8 +23,8 @@ export const botConfig = {
     // 5 = Competing
     activities: [
       {
-        name: "Custom Status", // required by Discord API, not shown in the client
-        state: "stalking",     // this is what people actually see
+        name: "Tornado's Pizzeria", // required by Discord API, not shown in the client
+        state: "Cooking Pizzas at",     // this is what people actually see
         type: 4,               // Custom
       },
     ],
