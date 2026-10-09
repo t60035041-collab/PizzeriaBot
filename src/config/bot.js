@@ -24,7 +24,7 @@ export const botConfig = {
     activities: [
       {
         name: "Tornado's Pizzeria", // required by Discord API, not shown in the client
-        state: "Cooking Pizzas at",     // this is what people actually see
+        state: "Cooking Pizzas",     // this is what people actually see
         type: 4,               // Custom
       },
     ],
